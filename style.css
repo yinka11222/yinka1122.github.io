@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgba(11, 141, 70, 0.815);
+        outline-color: rgb(241, 241, 241);
+    }
+h2 {
+    color: aqua;
+}
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        color: blanchedalmond;
+    }
